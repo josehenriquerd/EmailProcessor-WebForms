@@ -74,7 +74,7 @@ A aplicação permite o upload de um arquivo `.txt` com e-mails, remove duplicad
 
 ---
 
-## 🖼️ Demonstração (opcional)
+## 🖼️ Demonstração
 
 ![image](https://github.com/user-attachments/assets/cefc1103-b3be-4a5e-bcff-9911c4194063)
 
@@ -105,6 +105,4 @@ A aplicação permite o upload de um arquivo `.txt` com e-mails, remove duplicad
 
 ---
 
-## 👨‍💻 Desenvolvido por
-
-José Henrique 
+## ocellaris
